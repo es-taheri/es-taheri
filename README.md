@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=es-taheri" alt="es-taheri" /></a> </p>
 
-- 🔭 I’m currently working on [JSONDB](#comingsoon)
+- 🔭 I’m currently working on [3X-UI](https://github.com/es-taheri/3x-ui)
 
-- 🌱 I’m currently learning **Laravel,Front**
+- 🌱 I’m currently learning **Laravel,Linux based Networks**
 
-- 🤝 I’m looking for help with [MYJSONDB](#comingsoon) (HTML,CSS,JS)
+<!-- - 🤝 I’m looking for help with [MYJSONDB](#comingsoon) (HTML,CSS,JS)-->
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **ta.es1383@gmail.com**
+- 📫 How to reach me **[ta.es1383@gmail.com](mailto:ta.es1383@gmail.com)**,**[Telegram](https://t.me/estaheri)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="float:left;">
