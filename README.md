@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **[ta.es1383@gmail.com](mailto:ta.es1383@gmail.com)**,**[Telegram](https://t.me/estaheri)**
+- 📫 How to reach me **[ta.es1383@gmail.com](mailto:ta.es1383@gmail.com)**, **[Telegram](https://t.me/estaheri)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="float:left;">
 <a href="https://instagram.com/es.taherii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="es.taherii" height="40" width="40" /></a>
-<a style="float:left;" href="https://instagram.com/es.taherii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="es.taherii" height="40" width="40" /></a>
+<a style="float:left;" href="https://t.me/estaheri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="es.taherii" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
