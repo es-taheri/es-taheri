@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=es-taheri" alt="es-taheri" /></a> </p>
 
-- 🔭 I’m currently working on [3X-UI](https://github.com/es-taheri/3x-ui)
+- 🔭 I’m currently working on [3X-UI](https://github.com/es-taheri/3x-ui), [EasyTel](https://github.com/es-taheri/easytel)
 
-- 🌱 I’m currently learning **Laravel,Linux based Networks**
+- 🌱 I’m currently learning **Laravel,JS,Tailwind**
 
 <!-- - 🤝 I’m looking for help with [MYJSONDB](#comingsoon) (HTML,CSS,JS)-->
 
